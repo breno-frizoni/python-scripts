@@ -1,0 +1,31 @@
+A distância entre Carandaí, MG e ...
+    ... Aracaju, SE é 1747 km
+    ... Belo Horizonte, MG é 135 km
+    ... Belém, PA é 2875 km
+    ... Boa Vista, RR é 4789 km
+    ... Brasília, DF é 860 km
+    ... Campo Grande, MS é 1371 km
+    ... Cuiabá, MT é 1694 km
+    ... Curitiba, PR é 977 km
+    ... Florianópolis, SC é 1271 km
+    ... Fortaleza, CE é 2487 km
+    ... Goiânia, GO é 1013 km
+    ... João Pessoa, PB é 2337 km
+    ... Macapá, AP é 3385 km
+    ... Maceió, AL é 2001 km
+    ... Manaus, AM é 4043 km
+    ... Natal, RN é 2508 km
+    ... Palmas, TO é 1666 km
+    ... Porto Alegre, RS é 1706 km
+    ... Porto Velho, RO é 3155 km
+    ... Recife, PE é 2229 km
+    ... Rio Branco, AC é 3660 km
+    ... Rio de Janeiro, RJ é 308 km
+    ... Salvador, BA é 1552 km
+    ... São Luís, MA é 2625 km
+    ... São Paulo, SP é 584 km
+    ... Teresina, PI é 2191 km
+    ... Vitória, ES é 557 km
+O destino mais próximo de Carandaí, MG é Belo Horizonte, MG com 135 km
+
+Tempo de execução: 141s
